@@ -1,4 +1,7 @@
 # 辞書アプリ
+
+## アプリ概要
+
 このアプリは、ユーザーが入力した英単語の定義を取得して表示するWebアプリです。  
 外部APIとして **Free Dictionary API (https://dictionaryapi.dev/)** を利用しています。  
 
